@@ -1,5 +1,5 @@
 # vueInit
-An easy vue project built by webpack4
+An easy vue project built by webpack4 一个简易的通过Webpack构建的Vue.js开发环境(不使用Vue-cli)
 ### 使用方法  
 
 1.克隆到本地
